@@ -62,7 +62,6 @@ nav li {
 
 nav {
   width: 100vw;
-  background-color: rgb(238, 184, 182);
 }
 
 nav a {
@@ -77,7 +76,8 @@ blockquote {
 }
 
 nav a:hover {
-  background-color: darksalmon;
+  background-color: lightgray;
+  opacity: 50%;
 }
 
 .socials {
